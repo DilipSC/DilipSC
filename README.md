@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif"/>
 
 # 💫 About Me:
 🔭 I’m currently working on Node/Express JS<br>🤝 I’m looking for help with App Development in Kotlin<br>🌱 I’m currently learning React & NextJS<br>💬 Ask me about MERN Stack<br>⚡ Fun fact there are many Private Repositories i am currently working on
