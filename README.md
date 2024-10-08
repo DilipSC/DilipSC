@@ -1,4 +1,4 @@
-<a href="https://ibb.co/GpQZ0fC"><img src="https://i.ibb.co/9gHxNmy/git.webp" alt="git" border="0"></a>
+<a className='bg-rounded-sm' href="https://ibb.co/GpQZ0fC"><img src="https://i.ibb.co/9gHxNmy/git.webp" alt="git" border="0"></a>
 
 # 💫 About Me:
 🔭 I’m currently working on Node/Express JS<br>🤝 I’m looking for help with App Development in Kotlin<br>🌱 I’m currently learning React & NextJS<br>💬 Ask me about MERN Stack<br>⚡ Fun fact there are many Private Repositories i am currently working on
