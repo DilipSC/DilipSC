@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8">via GIPHY</a></p>
+<img src="https://giphy.com/embed/Ws6T5PN7wHv3cY8xy8" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 # 💫 About Me:
 🔭 I’m currently working on Node/Express JS<br>🤝 I’m looking for help with App Development in Kotlin<br>🌱 I’m currently learning React & NextJS<br>💬 Ask me about MERN Stack<br>⚡ Fun fact there are many Private Repositories i am currently working on
