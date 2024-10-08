@@ -1,4 +1,5 @@
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif"/>
+<img src="https://preview.redd.it/coding-by-pixel-jeff-v0-n8agw6z2smyb1.gif"/>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Node/Express JS<br>🤝 I’m looking for help with App Development in Kotlin<br>🌱 I’m currently learning React & NextJS<br>💬 Ask me about MERN Stack<br>⚡ Fun fact there are many Private Repositories i am currently working on
