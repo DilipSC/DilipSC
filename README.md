@@ -1,5 +1,5 @@
 <img src="https://cdn.mos.cms.futurecdn.net/Z7Rv4K4aVfzDzJnHPJXPF8.gif">
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Node/Express JS<br>🤝 I’m looking for help with App Development in Kotlin<br>🌱 I’m currently learning React & NextJS<br>💬 Ask me about MERN Stack<br>⚡ Fun fact there are many Private Repositories i am currently working on
 
 
