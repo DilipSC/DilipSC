@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DilipSC/DilipSC/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
