@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">I'm a passionate MERN Stack Developer with a strong foundation in building dynamic and scalable web applications.</h2>
+<h2 align="center">I'm a passionate Full Stack Web and App Developer and DevOps Enthusiast with a strong foundation in building dynamic and scalable applications.</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on NextJS, Typescript<br>👯 I’m looking to collaborate on NextJS<br>🤝 I’m looking for help with Typescript<br>🌱 I’m currently learning NextJS<br>💬 Ask me about ReactJS and ExpressJS</p>
+<p align="center">🔭 I’m currently working on Flutter, Docker<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with Typescript<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Full Stack Development</p>
 
 ###
 
