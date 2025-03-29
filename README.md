@@ -59,6 +59,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018720eab248248ff88ee3_1bd86e15.png" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://mvolkmann.github.io/blog/assets/dart-logo.png?v=1.0.20" height="40" alt="socketio logo"  />
 </div>
 
 ###
