@@ -204,8 +204,12 @@ dilipsc@github:~$ uptime
 
 <!-- SPOTIFY NOW PLAYING -->
 <div align="center">
-  <h3>🎧 Vibing To</h3>
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  <h3>🎧 Currently Vibing To</h3>
+  <a href="https://open.spotify.com/album/304jl0TqnS8p8MfGZgR5DR">
+    <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/The_Weeknd_-_Hurry_Up_Tomorrow.png" width="200" height="200" />
+  </a>
+  <br>
+  <b>Hurry Up Tomorrow</b> - The Weeknd
 </div>
 
 <!-- ANIMATED SEPARATOR -->
