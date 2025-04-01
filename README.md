@@ -4,9 +4,7 @@
 </div>
 
 <!-- ANIMATED BANNER -->
-<div align="center">
-  <img src="https://media1.tenor.com/m/RRhijk6pHAoAAAAd/good-morning.gif" width="100%" alt="banner image">
-</div>
+
 
 <!-- MATRIX RAIN EFFECT -->
 <div align="center">
