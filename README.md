@@ -114,7 +114,7 @@ dilipsc@github:~$ uptime
       <td valign="top" width="33%">
         <h3 align="center">🔧 Tools & IDEs</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,selenium&theme=dark" />
         </div>
       </td>
     </tr>
