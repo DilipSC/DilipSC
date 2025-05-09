@@ -81,9 +81,9 @@ dilipsc@github:~$ uptime
     <tr>
       <td valign="top" width="33%">
         <h3 align="center">🌐 Web Development</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,bootstrap,express,nodejs&theme=dark" />
-        </div>
+          <div align="center">
+            <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,bootstrap,express,nodejs,flask,fastapi,tailwind&theme=dark" />
+          </div>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">📱 App Development</h3>
