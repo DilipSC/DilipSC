@@ -98,11 +98,11 @@ ask_me_about:
       </td>
       <td align="center" width="25%">
         <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,cpp,c&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,java,go,django&theme=dark&perline=4" />
       </td>
       <td align="center" width="25%">
         <h3>📱 Mobile</h3>
-        <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=4" />
       </td>
       <td align="center" width="25%">
         <h3>🗄️ Database</h3>
