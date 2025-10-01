@@ -133,7 +133,8 @@ ask_me_about:
 <!-- SKILL PROFICIENCY -->
 <div align="center">
   <h3>💻 Language Proficiency</h3>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DilipSC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight" alt="Top Languages" />
+
 </div>
 
 <!-- ANIMATED DIVIDER -->
