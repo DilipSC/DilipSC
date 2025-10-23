@@ -1,4 +1,6 @@
 <!-- ANIMATED HEADER -->
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF00FF&height=200&section=header&text=DILIP%20S%20CHAKRAVARTHI&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Flutter%20Developer&fontSize=32&descSize=16&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55" width="100%">
 </div>
@@ -129,6 +131,8 @@ ask_me_about:
     </tr>
   </table>
 </div>
+
+[![An image of @dilipsc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dilipsc)](https://holopin.io/@dilipsc)
 
 <!-- SKILL PROFICIENCY -->
 <div align="center">
